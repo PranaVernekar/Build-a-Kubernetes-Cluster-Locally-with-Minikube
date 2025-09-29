@@ -218,10 +218,3 @@ deployment.apps/hello-deployment   4/4     4            4           5m
 * Created & scaled **Deployments**
 * Exposed pods using **Services**
 * Viewed **logs** and **descriptions**
-
-```
-
----
-
-Would you like me to also create a **`.gitignore` file** for this repo (so you don’t push things like kubeconfig, cache, or editor files)?
-```
