@@ -1,7 +1,7 @@
 
-# 🚀 Task 5: Build a Kubernetes Cluster Locally with Minikube
+# 🚀 Build a Kubernetes Cluster Locally with Minikube
 
-This project demonstrates how to deploy and manage applications in Kubernetes using **Minikube**, **kubectl**, and **Docker**.
+This demonstrates how to deploy and manage applications in Kubernetes using **Minikube**, **kubectl**, and **Docker**.
 
 ---
 
