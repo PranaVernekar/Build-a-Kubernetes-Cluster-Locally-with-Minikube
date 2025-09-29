@@ -215,6 +215,7 @@ deployment.apps/hello-deployment   4/4     4            4           5m
 
 <img width="1918" height="1018" alt="Screenshot 2025-09-29 160321" src="https://github.com/user-attachments/assets/4c5f040e-e1d7-4c87-b552-0a535c441710" />
 
+<img width="1919" height="973" alt="Screenshot 2025-09-29 205307" src="https://github.com/user-attachments/assets/57c117db-3540-483a-aacf-d151227b51e3" />
 
 ---
 
