@@ -60,7 +60,8 @@ kubectl get nodes
 ✅ **What we achieved:** Node(s) are ready.
 📸 *Screenshot: kubectl get nodes*
 
-![Uploading Screenshot 2025-09-29 151908.png…]()
+<img width="1916" height="1020" alt="Screenshot 2025-09-29 151908" src="https://github.com/user-attachments/assets/caf17a17-5040-4c87-b1d8-0a3727849d28" />
+
 
 
 ---
@@ -204,6 +205,9 @@ deployment.apps/hello-deployment   4/4     4            4           5m
 ```
 
 📸 *Screenshot: kubectl get all*
+
+<img width="1918" height="1018" alt="Screenshot 2025-09-29 160321" src="https://github.com/user-attachments/assets/4c5f040e-e1d7-4c87-b552-0a535c441710" />
+
 
 ---
 
