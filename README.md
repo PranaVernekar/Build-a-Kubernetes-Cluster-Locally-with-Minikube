@@ -41,6 +41,7 @@ minikube start --driver=docker
 ```
 
 ✅ **What we achieved:** A local Kubernetes cluster running inside Docker.
+
 📸 *Screenshots: 
 
 <img width="1919" height="1018" alt="Screenshot 2025-09-29 151823" src="https://github.com/user-attachments/assets/d487ddf9-9e48-4731-a43d-562cbade296d" />
@@ -58,6 +59,7 @@ kubectl get nodes
 ```
 
 ✅ **What we achieved:** Node(s) are ready.
+
 📸 *Screenshot: kubectl get nodes*
 
 <img width="1916" height="1020" alt="Screenshot 2025-09-29 151908" src="https://github.com/user-attachments/assets/caf17a17-5040-4c87-b1d8-0a3727849d28" />
@@ -101,6 +103,7 @@ kubectl apply -f deployment.yaml
 ```
 
 ✅ **What we achieved:** 2 pods running NGINX.
+
 📸 *Screenshot: kubectl get deployments and kubectl get pods*
 
 <img width="1918" height="1018" alt="Screenshot 2025-09-29 152604" src="https://github.com/user-attachments/assets/bec9058b-bd20-4d7c-b87f-d8e40379f597" />
@@ -133,6 +136,7 @@ kubectl apply -f service.yaml
 ```
 
 ✅ **What we achieved:** Pods exposed via NodePort service.
+
 📸 *Screenshot: kubectl get services*
 
 <img width="1919" height="1018" alt="Screenshot 2025-09-29 152735" src="https://github.com/user-attachments/assets/9baadc78-3830-4a25-a4ae-084a23a3c7f1" />
@@ -146,6 +150,7 @@ minikube service hello-service
 ```
 
 ✅ **What we achieved:** Opened NGINX welcome page in browser.
+
 📸 *Screenshot: Browser showing NGINX default page*
 
 <img width="1919" height="977" alt="Screenshot 2025-09-29 152956" src="https://github.com/user-attachments/assets/132d6f09-6f19-419a-926c-c5aaecd4fd3a" />
@@ -161,6 +166,7 @@ kubectl get pods
 ```
 
 ✅ **What we achieved:** Deployment scaled to 4 pods.
+
 📸 *Screenshot: kubectl get pods (4 pods running)*
 
 <img width="1919" height="1018" alt="Screenshot 2025-09-29 153042" src="https://github.com/user-attachments/assets/858f8ad5-8208-47a7-8084-19400ca657eb" />
@@ -176,6 +182,7 @@ kubectl logs <pod-name>
 ```
 
 ✅ **What we achieved:** Checked pod details & logs.
+
 📸 *Screenshot: kubectl describe deployment output*
 
 <img width="1919" height="1016" alt="Screenshot 2025-09-29 153117" src="https://github.com/user-attachments/assets/7e15a572-7967-466d-a92d-c9bf0017cbc6" />
