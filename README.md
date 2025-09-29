@@ -1,6 +1,4 @@
-Here’s a complete **`README.md`** you can drop into your `k8s-minikube-task/` folder 👇
 
-```markdown
 # 🚀 Task 5: Build a Kubernetes Cluster Locally with Minikube
 
 This project demonstrates how to deploy and manage applications in Kubernetes using **Minikube**, **kubectl**, and **Docker**.
